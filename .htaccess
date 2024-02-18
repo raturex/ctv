@@ -1,0 +1,2 @@
+ErrorDocument 404 http://ctv/404.html
+ErrorDocument 500 http://ctv/500.html
